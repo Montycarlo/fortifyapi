@@ -2,7 +2,6 @@
 
 import os
 import sys
-from setuptools import setup
 
 from fortifyapi import __version__ as version
 
