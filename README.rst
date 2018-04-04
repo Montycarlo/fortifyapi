@@ -14,13 +14,7 @@ Quick Start
 
 Several quick start options are available:
 
-- Build locally: 
-
-::
-
-    pip install wheel setuptools
-    python setup.py build
-
+- Build locally: ``pip install wheel setuptools && python setup.py build`` 
 - Install with pip (recommended): ``pip install fortifyapi``
 - `Download the latest release <https://github.com/target/fortifyapi/releases/latest/>`__.
 
@@ -51,4 +45,4 @@ Copyright and License
 ~~~~~~~~~~~~~~~~~~~~~
 .. image:: https://img.shields.io/github/license/target/fortifyapi.svg?style=flat-square
 
-- Copyright 2017 Target Brands, Inc.
+- Copyright 2018 Target Brands, Inc.
